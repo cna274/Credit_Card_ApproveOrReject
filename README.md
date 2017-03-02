@@ -6,6 +6,7 @@ Continuous features were normalized and categorical were binarized.
 Scikit-learn module to run SVM algorithm because only 600 samples were given (SVM works better for less samples)
 Used kernel trick to increase accuracy. Ended up getting 90% accuracy.
 
+Dataset will be made available Soon
 Run using :
 
 Python 2.7
